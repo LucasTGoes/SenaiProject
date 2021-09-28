@@ -1,0 +1,4 @@
+criar repositorio
+subir arquivo
+convidar amigo
+criar duas branches e fazer edições em ambas
